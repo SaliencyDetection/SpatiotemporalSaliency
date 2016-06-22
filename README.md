@@ -15,11 +15,11 @@ If you use our code for your research, please cite with the following Bibtex cod
   booktitle = {Image and Video Technology - 7th Pacific-Rim Symposium, {PSIVT} 2015, Auckland, New Zealand, November 25-27, 2015, Revised Selected Papers},
   pages     = {734--748},
   year      = {2015},
-	volume={9431},
-	isbn={978-3-319-29451-3},
-	series={Lecture Notes in Computer Science},
-	editor={Br¨aunl, T.},
-	publisher={Springer International Publishing Switzerland},
+  volume    = {9431},
+  isbn      = {978-3-319-29451-3},
+  series    = {Lecture Notes in Computer Science},
+  editor    = {Br¨aunl, T.},
+  publisher = {Springer International Publishing Switzerland},
   doi       = {10.1007/978-3-319-29451-3_58}
 }
 ```
