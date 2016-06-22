@@ -1,0 +1,12 @@
+function [pngPath, pngName] = GetPNGPath(pngDir)
+
+pngName = {'sal'};
+%pngName = [pngName {'sal_CI', 'sal_RC'}];
+%pngName = [pngName {'salCI_C', 'salCI_I', 'salCI_O', 'salCI_MM', 'salCI_MO'}];
+%pngName = [pngName {'salRC_O', 'salRC_C', 'salRC_M', 'salRC_V', 'salRC_D'}];
+
+for i=1:length(pngName)
+    pngPath{i} = [pngDir '/' pngName{i}];
+end
+
+end
