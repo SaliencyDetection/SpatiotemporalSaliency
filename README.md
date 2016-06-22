@@ -1,7 +1,7 @@
 ## Region based Spatiotemporal Saliency (RST)
 Contact: Trung-Nghia Le (ltnghia@nii.ac.jp)
 
-* This is the authors' MATLAB implementation described in the above paper. The current implementation is not optimed, thus it runs slowly.
+* This is the authors' MATLAB implementation described in the above paper. The current implementation is not optimized, thus it runs slowly.
 
 * This code has been tested on Window 10 and Ubuntu 14.04.
 
