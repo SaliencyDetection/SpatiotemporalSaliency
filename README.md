@@ -5,8 +5,7 @@ Contact: Trung-Nghia Le (ltnghia@nii.ac.jp)
 
 * This code has been tested on Window 10 and Ubuntu 14.04.
 
-## Publication
-If you use our code for your research, please cite with the following Bibtex code:
+* If you use our code for your research, please cite with the following Bibtex code:
 
 ````
 @inproceedings{Nghia-PSIVT2015,
@@ -23,5 +22,4 @@ If you use our code for your research, please cite with the following Bibtex cod
   doi       = {10.1007/978-3-319-29451-3_58}
 }
 ```
-* 
 
